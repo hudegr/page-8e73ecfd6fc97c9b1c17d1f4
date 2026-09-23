@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "aba74495496e8079b6c53ff6",
+  "owner": "hudegr",
+  "repo": "page-8e73ecfd6fc97c9b1c17d1f4",
+  "title": "胡萝卜速",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "8e73ecfd6fc97c9b1c17d1f4",
+      "a": "胡萝卜速",
+      "b": "稳定全球clash加速器",
+      "entity": "胡萝卜速",
+      "brand": "胡萝卜速",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "786f549c577a9d9534ff310d25b96b57162c36595745b5c7ceb5d9fae4f518ea",
+      "content": {
+        "primary_entity": "胡萝卜速",
+        "keyword1": "胡萝卜速",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "Windows、macOS、Android、iOS 等平台可按系统选择对应客户端。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLOSING_TEXT": "根据设备数量和流量需求挑一个套餐，导入订阅后即可开始使用。",
+          "AI_CLOSING_TITLE": "选好套餐开始连接",
+          "AI_DESCRIPTION": "，胡萝卜速提供基础版、旗舰版与团队版三档套餐，月付分别为 ¥15、¥35、¥85，年付为 ¥150、¥350、¥850。基础版含 100GB 流量与 3 台设备，旗舰版含 300GB 流量与 5 台设备并带 IPLC 专线，团队版含 1000GB 流量与 20 台设备。各档均支持 Clash 等常见客户端订阅导入，按设备数量与流量习惯选择即可。",
+          "AI_FEATURES_INTRO": "从流量额度、设备数量与线路类型三个维度比较，能更快定位合适套餐。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版 100GB、旗舰版 300GB、团队版 1000GB，按每月用量选档。",
+          "AI_FEATURE_TEXT_2": "单账号支持 3 至 20 台设备在线，多设备场景优先看团队版。",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付更省，旗舰版与团队版提供专线或高带宽节点。",
+          "AI_FEATURE_TITLE_1": "流量额度",
+          "AI_FEATURE_TITLE_2": "设备数量",
+          "AI_FEATURE_TITLE_3": "线路与周期",
+          "AI_GUIDE_INTRO": "按选定套餐获取订阅地址，在客户端完成导入与节点选择。",
+          "AI_GUIDE_TITLE": "使用三步",
+          "AI_HERO_INTRO": "胡萝卜速提供按月或按年订阅的网络加速服务，覆盖基础版、旗舰版和团队版三档方案，适合个人多设备与小型团队使用。选择套餐后可搭配常见客户端导入订阅，按流量和设备数量灵活调整。",
+          "AI_HERO_SUBTITLE": "多档套餐适配不同设备",
+          "AI_HIGHLIGHT_1": "三档套餐按流量与设备数区分",
+          "AI_HIGHLIGHT_2": "月付年付可选，年付更划算",
+          "AI_HIGHLIGHT_3": "支持 Clash 等客户端订阅导入",
+          "AI_PLANS_INTRO": "基础版适合轻度使用，旗舰版兼顾流量与专线，团队版满足多设备高流量。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "在基础版、旗舰版与团队版之间比较流量、设备数和线路类型，确定一档。",
+          "AI_STEP_TEXT_2": "核对常用设备的系统版本与客户端类型，确认能安装支持订阅导入的客户端。",
+          "AI_STEP_TEXT_3": "获取订阅地址后，按所选客户端文档完成配置并选择节点连接。",
+          "AI_STEP_TITLE_1": "选择服务档位",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "导入订阅配置",
+          "AI_VISUAL_TITLE": "胡萝卜速套餐一览",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版和旗舰版的主要区别是什么？",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量、支持 3 台设备在线，解锁基础流媒体。旗舰版每月 300GB、支持 5 台设备，提供全节点原生流媒体解锁和 IPLC 专线游戏加速优化，并带 7x24 优先工单支持。",
+          "AI_FAQ_QUESTION_2": "一个账户可以同时在几台设备上使用？",
+          "AI_FAQ_ANSWER_2": "基础版 3 台，旗舰版 5 台，团队版 20 台。超出在线数量时，新设备可能无法正常连接，建议按常用终端数量选择对应版本。",
+          "AI_FAQ_QUESTION_3": "按年付是否更划算？",
+          "AI_FAQ_ANSWER_3": "基础版按年付仅需 ¥150/年，旗舰版按年付仅需 ¥350/年，团队版按年付仅需 ¥850/年。按月付价格折算，长期使用按年付的月均成本更低。",
+          "AI_FAQ_QUESTION_4": "团队版适合什么场景？",
+          "AI_FAQ_ANSWER_4": "团队版每月 1000GB 流量，支持 20 台设备在线，提供 VIP 专属高带宽节点、企业定制路由和专属客户经理服务，适合多人共用或需要稳定带宽的团队场景。",
+          "AI_FAQ_QUESTION_5": "订阅如何导入到客户端？",
+          "AI_FAQ_ANSWER_5": "先确认设备对应的客户端名称，再依该客户端的文档导入订阅信息，选择合适节点后启用连接。若导入后无法连接，可先检查套餐在线设备数是否已满。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "arjsmbr.cn",
+    "host": "arjsmbr.cn"
+  },
+  "file_hashes": {
+    "index.html": "008a933a1bac8f1f266f9074ada5598a97c84e0e9f9fbc56afdfa6d522f98702",
+    "sitemap.xml": "2d44724ae39d97c7ce06b17535fbcabce4e6d81f4912ff1fcc79910387a1c947",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "f7c46cb4dbfadaad96f7bfc627282b63ad25db1077a5146e2ae5dbd305f19e44",
+    "robots.txt": "b0cdfc667dcff7bf9c3f78f6808bbd2e67d18c5432ff3b1c551f16c3d13db491",
+    "1f06c3da0df6918af79cc300e000ba02.txt": "50656f202326d8cd7210b42af90e0bc6600e0be2eebea842fa5a4f37464b1215"
+  },
+  "revision": "68c55bdf1e0f2714d400681cc08ab12900ff9679c463bd710e03fe99836ed0ff"
+}
